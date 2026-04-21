@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hishnik-eng.github.io/sitemap.xml
+Sitemap: https://hishnik-eng.github.io/video/sitemap.xml
+
